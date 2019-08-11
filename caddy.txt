@@ -1,0 +1,5 @@
+echo "https://solo.yzddhr.me {
+ gzip
+ tls yzddahaoren@163.com
+ proxy / http://34.201.46.230:8080
+}" > /usr/local/caddy/Caddyfile

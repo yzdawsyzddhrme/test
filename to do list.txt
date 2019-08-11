@@ -1,0 +1,27 @@
+- gossa和mpv的结合用法
+- mpv的各种用法以及常用命令,和webbd结合,和ftp结合的用法           https://blog.csdn.net/angus_17/article/details/80696989
+- heroku搭建RSSHUB
+- new.sh安装oneindex
+- heroku常用命令整理
+- 博客的选择与主题(自用)  heroku to hexo
+- heroku安装Uneasenetmusic代理
+- 黄图pixiv下载器，两个，附带ehentai下载器
+- 语音通话demo
+- 内网穿透工具和shadowsocks实现全端口穿透
+- axel-corn下载服务器
+- git下载速度太慢
+- 利用github搭建CDN资源
+- halo漂亮的现代化博客
+- flarum搭建
+- witness
+- i love myself , but i perfer a better one .
+修改命令
+
+1
+git remote set-url origin [url]
+先删后加
+
+
+2
+git remote rm origin
+git remote add origin [url]
